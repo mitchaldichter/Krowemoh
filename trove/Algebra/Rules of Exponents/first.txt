@@ -1,0 +1,6 @@
+<div class="Krowemoh_exercise">
+  <p>Write the expression as a base number to the power of an exponent using the caret ^ character. b^p $= b^{p}$</p>
+  \begin{equation}
+  4 \cdot 4 \cdot 4
+  \end{equation}
+</div>
